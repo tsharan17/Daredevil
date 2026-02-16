@@ -186,7 +186,8 @@ This project demonstrates:
 
 # 👤 Design Team
 
-T. Sharan, Anshul Bohini, Nithya Hasini, Advaitya Vora
+T. Sharan, Anshul Bohini, Nithya Hasini, Advaitya Vora.
+
 a bunch of engineers at Team Ketos.  
 
 ---
